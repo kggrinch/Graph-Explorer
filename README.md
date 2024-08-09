@@ -13,14 +13,19 @@ User Instructions:
 2. Choose one of the three files at the top right of the application where it says select file.
 3. Button features:
        Go - Will run the selected file and display graphs vertices, edge list, whether it is connected or not, the MST total weight, and the MST edges.
+   
        Shortest Path - This will ask the user to enter the first and second vertexes, then display the shortest path from the first vertex to the second and their total distance.
+   
        Show Graph - This will display the selected file graph
+   
        Save - This will save the shortest path into a separate text file named: ShortestPath.txt - This can be found in Graph-Explorer-main -> src -> Data -> ShortestPath.txt
+   
        Clear - This will clear all the displayed data from the application.
+   
        Exit - This will close and quit the application
 
-4. Help -> About - This will open up a separate application that explains Graph-Explorer
-5. New - This works almost exactly like the select file except that it has all the data files opened to it. Only the         
+5. Help -> About - This will open up a separate application that explains Graph-Explorer
+6. New - This works almost exactly like the select file except that it has all the data files opened to it. Only the         
 
 Contact
 For questions or contributions, please contact me at kirillkongrichanichenko@gmail.com
