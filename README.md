@@ -12,6 +12,7 @@ User Instructions:
 1. The program comes with three files with different edge lists representing graphs as USA states.
 2. Choose one of the three files at the top right of the application where it says select file.
 3. Button features:
+
        Go - Will run the selected file and display graphs vertices, edge list, whether it is connected or not, the MST total weight, and the MST edges.
    
        Shortest Path - This will ask the user to enter the first and second vertexes, then display the shortest path from the first vertex to the second and their total distance.
