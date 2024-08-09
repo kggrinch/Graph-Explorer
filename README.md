@@ -28,5 +28,4 @@ User Instructions:
 5. Help -> About - This will open up a separate application that explains Graph-Explorer
 6. New - This works almost exactly like the select file except that it has all the data files opened to it. Only the files that are in the select files tab work, but feel free the create your own.
 
-Contact
 For questions or contributions, please contact me at kirillkongrichanichenko@gmail.com
