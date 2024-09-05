@@ -2,7 +2,7 @@
 GUI application that visualizes and interacts with weighted, undirected graphs derived from text file data. The application implements Kruskal’s Algorithm for minimum spanning trees and Dijkstra’s Algorithm for shortest path calculations. Features include graph display, clearing, saving, and graph statistics.
 
 Set-up Instructions:
-1. download the Graph-Explorer-main file into a zip. Graph-Explorer -> Code -> Download zip
+1. Download the Graph-Explorer-main file into a zip. Graph-Explorer -> Code -> Download zip
 2. Extract the zip file into a folder
 3. Open any ide (IntelliJ or Eclipse preferred)
 4. Open Project -> Choose the extracted Graph-Explorer-main folder
