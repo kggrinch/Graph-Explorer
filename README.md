@@ -4,7 +4,7 @@ GUI application that visualizes and interacts with weighted, undirected graphs d
 Set-up Instructions:
 1. Download the Graph-Explorer-main file into a zip. Graph-Explorer -> Code -> Download zip
 2. Extract the zip file into a folder
-3. Open any ide (IntelliJ or Eclipse preferred)
+3. Open any IDE (IntelliJ or Eclipse preferred)
 4. Open Project -> Choose the extracted Graph-Explorer-main folder
 5. In the IDE go to Graph-Explorer-main -> src -> GraphExplorer -> GraphExplorerGUI -> Set up correct JDK Version if needed -> Run GraphExplorerGUI
 
